@@ -19,3 +19,4 @@ sequelize.sync({ force: false }).then(() => {
 //source db/schema.sql;
 
 //npm run seed 
+//google drive public

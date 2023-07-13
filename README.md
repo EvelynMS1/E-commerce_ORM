@@ -20,7 +20,8 @@ My motivation in creating this application was for the purpose of creating an ec
 
 ## Installation
 
-N/A
+- Add .env file before running this application
+  N/A
 
 ## Usage
 
